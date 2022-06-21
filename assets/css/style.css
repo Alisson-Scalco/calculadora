@@ -70,7 +70,8 @@ h1 {
 }
 @media (max-width: 900px) {
   .calculadora{
-  width: 350px;
+    width: 400px;
+  }
 }
 .display {
   font-size: 26px;

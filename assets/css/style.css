@@ -73,6 +73,11 @@ h1 {
     width: 400px;
   }
 }
+@media (max-width: 500px) {
+  .calculadora{
+    width: 340px;
+  }
+}
 .display {
   font-size: 26px;
   width: 100%;
